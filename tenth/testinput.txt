@@ -1,0 +1,11 @@
+bot 1 gives low to bot 2 and high to bot 3
+bot 2 gives low to output 9 and high to output 10
+bot 3 gives low to bot 1 and high to bot 4
+bot 4 gives low to bot 1 and high to output 1
+value 100 goes to bot 1
+value 200 goes to bot 1
+value 61 goes to bot 3
+value 17 goes to bot 4
+bot 5 gives low to output 0 and high to output 2
+value 501 goes to bot 5
+value 502 goes to bot 5
